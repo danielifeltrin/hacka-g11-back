@@ -4,3 +4,4 @@ flask-cors
 PyMySQL
 cryptography
 gunicorn
+newrelic
