@@ -1,2 +1,2 @@
 # hacka-g11-back
-MBA ASO6 hackaton
+MBA ASO6 hackathon
